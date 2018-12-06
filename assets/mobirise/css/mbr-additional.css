@@ -1502,16 +1502,97 @@ body {
   color: #767676;
 }
 .cid-rbtLF8CROq H2 {
-  color: #505048;
+  color: #73716a;
 }
-.cid-rbtqS0Pk3R {
-  padding-top: 90px;
-  padding-bottom: 0px;
+.cid-rbtXP1ahZf {
+  padding-top: 60px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rbtqS0Pk3R .mbr-text,
-.cid-rbtqS0Pk3R blockquote {
-  color: #767676;
+.cid-rbtXP1ahZf .mbr-section-subtitle {
+  color: #73716a;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rbtXP1ahZf .timeline-text-content {
+  padding: 2rem 2.5rem;
+  background: #e7e7e7;
+  margin-right: 2rem;
+  transition: all .4s;
+}
+.cid-rbtXP1ahZf .timeline-text-content p {
+  margin-bottom: 0;
+}
+.cid-rbtXP1ahZf .timeline-element {
+  margin-bottom: 50px;
+  position: relative;
+  word-wrap: break-word;
+  word-break: break-word;
+  display: -webkit-flex;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+}
+.cid-rbtXP1ahZf .timeline-element:hover .timeline-text-content {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.cid-rbtXP1ahZf .reverse {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-rbtXP1ahZf .reverse .timeline-text-content {
+  margin-left: 2rem;
+  margin-right: 0;
+}
+.cid-rbtXP1ahZf .iconsBackground {
+  position: absolute;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #e7e7e7;
+  top: 20px;
+  margin-left: -30px;
+}
+.cid-rbtXP1ahZf .mbr-iconfont {
+  position: absolute;
+  text-align: center;
+  font-size: 35px;
+  display: inline-block;
+  z-index: 3;
+  top: 13px;
+  left: 13px;
+}
+.cid-rbtXP1ahZf .separline:before {
+  top: 20px;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  width: 2px;
+  background-color: #e7e7e7;
+  left: calc(50% - 1px);
+  height: calc(100% + 4rem);
+}
+@media (max-width: 768px) {
+  .cid-rbtXP1ahZf .iconsBackground {
+    left: 1.5rem;
+  }
+  .cid-rbtXP1ahZf .separline:before {
+    left: calc(1.5rem - 1px);
+  }
+  .cid-rbtXP1ahZf .timeline-text-content {
+    margin-left: 3rem !important;
+    margin-right: 0 !important;
+  }
+  .cid-rbtXP1ahZf .reverse .timeline-text-content {
+    margin-right: 0 !important;
+  }
+}
+.cid-rbtXP1ahZf .mbr-section-title {
+  color: #505048;
 }
 .cid-rbtFIkiW3S {
   background-color: #dee5e4;
