@@ -24,7 +24,7 @@
         "display4Font": "Space Mono",
         "display4Size": "0.6",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
