@@ -23,7 +23,7 @@
         "display7Size": "1.2",
         "display4Font": "Space Mono",
         "display4Size": "0.6",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
