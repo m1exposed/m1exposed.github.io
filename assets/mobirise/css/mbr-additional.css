@@ -1736,7 +1736,7 @@ body {
 }
 .cid-rc92J0UWwU {
   padding-top: 60px;
-  padding-bottom: 30px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rc92J0UWwU .mbr-section-subtitle {
@@ -1829,6 +1829,18 @@ body {
 }
 .cid-rc92J0UWwU .mbr-timeline-text {
   color: #73716a;
+}
+.cid-rcNJY4g8VN {
+  background: #ffffff;
+}
+.cid-rcNJY4g8VN .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rcNJY4g8VN .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rbtFIkiW3S {
   background-color: #dee5e4;
