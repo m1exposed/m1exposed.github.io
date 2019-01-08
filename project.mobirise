@@ -930,7 +930,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#505048"
+              "color": "#73716a"
             }
           },
           "_name": "content5",
@@ -956,6 +956,9 @@
             },
             ".mbr-text B": {
               "color": "#505048"
+            },
+            ".mbr-text P": {
+              "color": "#73716a"
             }
           },
           "_name": "content1",
