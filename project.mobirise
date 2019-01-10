@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "exposed-clone",
+    "name": "project exposed",
     "currentPage": "projectexposed.html",
     "theme": {
       "name": "mobirise4",
@@ -23,8 +23,8 @@
         "display7Size": "1.2",
         "display4Font": "Space Mono",
         "display4Size": "0.6",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
